@@ -24,9 +24,10 @@ documenting everything publicly as I go.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Log Analyzer](https://github.com/abiramr44/log-analyzer) | SSH auth log parser that detects brute force attacks and privilege escalation, generates structured security reports | Python, Regex, Bash |
+| [Secsnap](https://github.com/abiramr44/secsnap) | A Python-based background daemon that monitors system activity in real time and automatically captures forensic snapshots when suspicious behavior is detected. Built for SOC and DFIR workflows. | Python|
 
 ## 📝 Latest Write-ups
-> Coming soon on [Medium](https://medium.com/@your-handle)
+> #1 Built a SIEM-Style Log Analyzer in Python. Here’s What I Learned as a Cybersecurity Beginner [Medium](https://medium.com/@abiramr44/built-a-siem-style-log-analyzer-in-python-heres-what-i-learned-as-a-cybersecurity-beginner-bdc560976b25)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abiramr44)
