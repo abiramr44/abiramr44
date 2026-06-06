@@ -7,7 +7,7 @@ I left my job to pursue cybersecurity full-time. Passed the ISC2 CC exam May 202
 ---
 
 ## 🎯 Current Focus
-- ✅ ISC2 Certified in Cybersecurity (CC) — Passed May 30, 2026
+- ✅ ISC2 Certified in Cybersecurity (CC)
 - Building SOC-relevant Python tools: log analysis, forensic monitoring, threat detection
 - Working through PortSwigger Web Security Academy labs
 - Writing technical write-ups on Medium documenting every project
