@@ -28,6 +28,7 @@ I left my job to pursue cybersecurity full-time. Passed the ISC2 CC exam May 202
 | [SecSnap](https://github.com/abiramr44/secsnap) | Live forensic snapshot daemon monitoring CPU, RAM, network, and disk in real time. Auto-triggers on anomalies, generates timestamped TXT and JSON snapshots for DFIR workflows. | Python, psutil |
 
 ## 📝 Latest Write-ups
+- [I Built a Forensic Snapshot Daemon in Python — And GitHub’s Copilot Found Bugs in It]([https://medium.com/@abiramr44/i-quit-my-job-to-study-cybersecurity-full-time-heres-what-happened-76e8b79fee67](https://medium.com/@abiramr44/i-built-a-forensic-snapshot-daemon-in-python-and-githubs-copilot-found-bugs-in-it-6fcdb46fe096))
 - [I Quit My Job to Study Cybersecurity Full Time. Here's What Happened.](https://medium.com/@abiramr44/i-quit-my-job-to-study-cybersecurity-full-time-heres-what-happened-76e8b79fee67)
 - [I Built a SIEM-Style Log Analyzer in Python — Here's What I Learned](https://medium.com/@abiramr44/built-a-siem-style-log-analyzer-in-python-heres-what-i-learned-as-a-cybersecurity-beginner-bdc560976b25)
 
