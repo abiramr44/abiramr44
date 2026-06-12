@@ -6,8 +6,14 @@ I left my job to pursue cybersecurity full-time. Passed the ISC2 CC exam May 202
 
 ---
 
+## 🏅 Certifications & Badges
+
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00ADEF?style=flat&logo=isc2&logoColor=white)
+![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)
+![Fortinet NSE1](https://img.shields.io/badge/Fortinet-NSE_1_Threat_Landscape-EE3124?style=flat&logo=fortinet&logoColor=white)
+
 ## 🎯 Current Focus
-- ✅ ISC2 Certified in Cybersecurity (CC)
+- Certified LLM Security Expert
 - Building SOC-relevant Python tools: log analysis, forensic monitoring, threat detection
 - Working through PortSwigger Web Security Academy labs
 - Writing technical write-ups on Medium documenting every project
