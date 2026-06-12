@@ -1,6 +1,6 @@
 # Hi, I'm Abiram 👋
 
-ISC2 Certified in Cybersecurity (CC) | SOC Analyst | Bengaluru, India
+ISC2 Certified in Cybersecurity (CC) | Cybersecurity Analyst | Bengaluru, India
 
 I left my job to pursue cybersecurity full-time. Passed the ISC2 CC exam May 2026 & now building deeper hands-on skills across log analysis, threat detection, DFIR, and web application security.
 
